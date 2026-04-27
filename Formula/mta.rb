@@ -2,7 +2,7 @@ class Mta < Formula
   desc "NYC subway arrivals and route planner for the terminal"
   homepage "https://github.com/itsashishupadhyay/NYC_MTA_Timetable"
   url "https://github.com/itsashishupadhyay/NYC_MTA_Timetable/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "02b55241b6dd5a78fb7439add4c8463f7ba00f3684452dc7ac11bab21879b86d"
   license "MIT"
   head "https://github.com/itsashishupadhyay/NYC_MTA_Timetable.git", branch: "master"
 
